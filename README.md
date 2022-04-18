@@ -32,7 +32,7 @@ Summary of 6 Steps to Completing API Lab - backend only
     
 2.   Set Up and Backend 
     
-      2.1 PostgreSQL: Create new database named product and connect to it; 
+      2.1 PostgreSQL: Create new database named ordermgmt and connect to it; 
       
       2.2 Terminal:  mkdir Name git clone
       
