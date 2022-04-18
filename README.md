@@ -16,7 +16,7 @@ Summary of 6 Steps to Completing API Lab - backend only
       
      User Stories:
     
-     As a user, one wants to get the information of one prodcut so that retrieval of data is effortless.
+     As a user, one wants to get the information of one product so that retrieval of data is effortless.
      
      As a user, one wants to retrieve the information of all products so that one can get a list of them effortlessly.
      
@@ -43,9 +43,12 @@ Summary of 6 Steps to Completing API Lab - backend only
      3.1 Postman: test endpoints;
     
      GET  /products
+     
      GET /product/101
-    POST/product      
-    GET /order/101
+     
+     POST/product      
+     
+     GET /order/101
     
     
      3.2 give mgr completion status;
