@@ -26,7 +26,8 @@ Summary of 6 Steps to Completing API Lab - backend only
    
         
     ERD:
-    ```
+    
+    [Orders-App.pdf](https://github.com/annettem123/Orders/files/8508137/Orders-App.pdf)``
 
 2.   Set Up and Backend 
     
@@ -59,3 +60,4 @@ Summary of 6 Steps to Completing API Lab - backend only
 5.   Presentation
  
       5.1 Present app demo. 
+
