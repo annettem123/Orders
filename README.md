@@ -58,6 +58,8 @@ Summary of 6 Steps to Completing API Lab - backend only
 4.   Finish Up & ReadMe 
 
      4.1 ReadMe: add challenges & what else would be done if there was more time; 
+     
+     Application Run Fail error message:  I know where the error is; namely, .save in the controller, but I don't know how to fix it. I want to start over with the following changes:  Give one-word names to the app name, mode names, and field names and redo it in the order that it was taught to me. Then repeat process with different app learning opportunities.
 
      4.2  Practice presentation skills.
      
